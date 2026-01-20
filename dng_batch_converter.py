@@ -10,8 +10,8 @@ It features:
 - Anti-collision naming: Auto-renames files to avoid overwriting.
 - localized logging: Saves logs inside the destination folder.
 
-Author: [Your Name/GitHub Username]
-License: MIT (or your preferred license)
+Author: [Filipe Rivelli]
+License: MIT
 """
 
 import os
